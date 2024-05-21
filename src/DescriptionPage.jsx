@@ -19,9 +19,7 @@ const DescriptionPage = ({ movies }) => {
         height="315"
         src={movie.trailer}
         title={movie.title}
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
+        
       ></iframe>
       <br />
       <Link to="/">Back to Home</Link>
