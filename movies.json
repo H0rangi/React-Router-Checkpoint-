@@ -1,0 +1,49 @@
+{
+    "movies": [
+      {
+        "id": "001",
+        "title": "Blade Runner",
+        "description": "A dystopian sci-fi classic where a blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "ph": "https://www.themoviedb.org/t/p/original/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "rating": 8.1,
+        "date": "1982",
+        "time": "1h57m",
+        "type": "Sci-Fi",
+        "trailer":"https://youtu.be/qoEyZoOTtss?si=V9qMK35oL7VAArGI"
+      },
+      {
+        "id": "002",
+        "title": "Blade Runner 2049",
+        "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+        "ph": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        "rating": 8.0,
+        "date": "2017",
+        "time": "2h44m",
+        "type": "Sci-Fi",
+        "trailer":"https://youtu.be/gCcx85zbxz4?si=hi-LzrIozq7Y33zo"
+      },
+      {
+        "id": "003",
+        "title": "Drive",
+        "description": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.",
+        "ph": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        "rating": 7.8,
+        "date": "2011",
+        "time": "1h40m",
+        "type": "Action",
+        "trailer":"https://youtu.be/KBiOF3y1W0Y?si=WZ7jbLU81h_NTz12"
+      },
+      {
+        "id": "004",
+        "title": "La La Land",
+        "description": "A jazz musician and an aspiring actress fall in love but struggle to maintain a relationship as they pursue their dreams in Los Angeles.",
+        "ph": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+        "rating": 8.0,
+        "date": "2016",
+        "time": "2h8m",
+        "type": "Romance",
+        "trailer":"https://youtu.be/lu4RHvouJH8?si=XKRfpohRIkba4tkj"
+      }
+    ]
+  }
+  
